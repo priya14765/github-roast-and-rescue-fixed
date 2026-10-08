@@ -1,7 +1,5 @@
 # github-roast-and-rescue
 
-# GitHub Roast and Rescue
-
 **GitHub Roast and Rescue** is a rule-based tool that evaluates a public GitHub profile and provides a **100-point score, honest roast, and personalized Rescue Plan**.
 
 It analyses profile details, repositories, README quality, documentation, activity, commits, languages, and project health. Each finding is backed by actual GitHub data—**nothing is guessed**.
